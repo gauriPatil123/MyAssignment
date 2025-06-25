@@ -49,3 +49,45 @@
 2025-06-21 16:59:40 [main] INFO  com.Base.BaseClass - Browser opened
 2025-06-21 16:59:41 [main] INFO  com.keywords.Keyword - application url is opend
 2025-06-21 16:59:41 [main] INFO  com.Base.BaseClass - App URL is opened
+2025-06-23 16:28:18 [main] INFO  com.keywords.Keyword - Edge browser opened
+2025-06-23 16:28:18 [main] INFO  com.Base.BaseClass - Browser opened
+2025-06-23 16:28:28 [main] INFO  com.keywords.Keyword - application url is opend
+2025-06-23 16:28:28 [main] INFO  com.Base.BaseClass - App URL is opened
+2025-06-23 16:47:09 [main] INFO  com.keywords.Keyword - Edge browser opened
+2025-06-23 16:47:09 [main] INFO  com.Base.BaseClass - Browser opened
+2025-06-23 16:47:12 [main] INFO  com.keywords.Keyword - application url is opend
+2025-06-23 16:47:12 [main] INFO  com.Base.BaseClass - App URL is opened
+2025-06-24 11:56:37 [main] INFO  com.keywords.Keyword - Edge browser opened
+2025-06-24 11:56:37 [main] INFO  com.Base.BaseClass - Browser opened
+2025-06-24 11:56:40 [main] INFO  com.keywords.Keyword - application url is opend
+2025-06-24 11:56:40 [main] INFO  com.Base.BaseClass - App URL is opened
+2025-06-25 13:11:47 [main] INFO  com.keywords.Keyword - Edge browser opened
+2025-06-25 13:11:50 [main] INFO  com.keywords.Keyword - application url is opend
+2025-06-25 13:12:53 [main] INFO  com.keywords.Keyword - Edge browser opened
+2025-06-25 13:12:56 [main] INFO  com.keywords.Keyword - application url is opend
+2025-06-25 13:12:56 [main] INFO  com.keywords.Keyword - ULTIMA WORKS
+2025-06-25 13:12:59 [main] INFO  com.keywords.Keyword - Edge browser opened
+2025-06-25 13:13:06 [main] INFO  com.keywords.Keyword - application url is opend
+2025-06-25 13:17:52 [main] INFO  com.keywords.Keyword - Edge browser opened
+2025-06-25 13:19:47 [main] INFO  com.keywords.Keyword - Edge browser opened
+2025-06-25 13:19:49 [main] INFO  com.keywords.Keyword - application url is opend
+2025-06-25 13:25:39 [main] INFO  com.keywords.Keyword - Edge browser opened
+2025-06-25 13:25:41 [main] INFO  com.keywords.Keyword - application url is opend
+2025-06-25 13:27:18 [main] INFO  com.keywords.Keyword - Edge browser opened
+2025-06-25 13:27:21 [main] INFO  com.keywords.Keyword - application url is opend
+2025-06-25 13:27:41 [main] INFO  com.keywords.Keyword - Persona & Attendance (P&A) Adherence
+2025-06-25 13:31:31 [main] INFO  com.keywords.Keyword - Edge browser opened
+2025-06-25 13:31:33 [main] INFO  com.keywords.Keyword - application url is opend
+2025-06-25 13:41:16 [main] INFO  com.keywords.Keyword - Edge browser opened
+2025-06-25 13:41:50 [main] INFO  com.keywords.Keyword - application url is opend
+2025-06-25 13:44:52 [main] INFO  com.keywords.Keyword - Edge browser opened
+2025-06-25 13:44:54 [main] INFO  com.keywords.Keyword - application url is opend
+2025-06-25 13:45:39 [main] INFO  com.Smoke.AttendanceReg.LearningDetailsPage - My Learning
+2025-06-25 13:48:33 [main] INFO  com.keywords.Keyword - Edge browser opened
+2025-06-25 13:48:36 [main] INFO  com.keywords.Keyword - application url is opend
+2025-06-25 13:49:33 [main] INFO  com.SmokeSuite.Attendance_RegularizationSystem - Persona & Attendance (P&A) Adherence
+2025-06-25 13:49:37 [main] INFO  com.keywords.Keyword - Edge browser opened
+2025-06-25 13:49:40 [main] INFO  com.keywords.Keyword - application url is opend
+2025-06-25 13:51:22 [main] INFO  com.keywords.Keyword - Edge browser opened
+2025-06-25 13:51:24 [main] INFO  com.keywords.Keyword - application url is opend
+2025-06-25 13:51:36 [main] INFO  com.SmokeSuite.LearningDetailsPage - My Learning

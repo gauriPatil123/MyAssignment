@@ -3,12 +3,12 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="com.Smoke.AttendanceReg.Attendance_Regularization_System">
+      <class name="com.SmokeSuite.NoPendingApprovals">
         <methods>
+          <include name="toVerifyNoPendingApprovals"/>
           <include name="setup"/>
-          <include name="toVerifyAttendance_Regularization_System"/>
         </methods>
-      </class> <!-- com.Smoke.AttendanceReg.Attendance_Regularization_System -->
+      </class> <!-- com.SmokeSuite.NoPendingApprovals -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

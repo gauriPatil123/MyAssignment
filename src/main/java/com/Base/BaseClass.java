@@ -15,15 +15,11 @@ public class BaseClass {
 	@BeforeMethod
 	public void setup() {
 		keyword.launchBrowser("Edge");
-		log.info("Browser opened");
 		keyword.launchURL("https://ultimaworks.ltimindtree.com/home");
-		log.info("App URL is opened");
+	
 	}
 	
-
-
-	
-	//@AfterMethod
+	@AfterMethod
 	public void tesrDown() {
 		keyword.driver.quit();
 		log.info("Browser closed");

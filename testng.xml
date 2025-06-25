@@ -3,8 +3,10 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.Smoke.AttendanceReg.Attendance_Regularization_System"/>
-      <class name="com.Smoke.AttendanceReg.NoPendingApprovals"/>
+      <class name="com.SmokeSuite.Attendance_RegularizationSystem"/>
+      <class name="com.SmokeSuite.NoPendingApprovals"/>
+      <class name="com.SmokeSuite.LearningDetailsPage"/>
+      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
